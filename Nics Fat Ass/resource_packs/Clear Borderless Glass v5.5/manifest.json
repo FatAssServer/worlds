@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§c§lClear & Borderless Glass v5.5",
+    "description": "§9Makes the glass and the glass panes borderless and clear!! By Mod MCPE",
+    "version": [5, 5, 7],
+    "uuid": "4d18148f-e241-4c2e-a450-cf440f4fc0fe",
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "§9Makes the glass and the glass panes borderless and clear!! By Mod MCPE",
+      "version": [5, 5, 7],
+      "uuid": "28c69e2e-6117-4586-aa57-d7ca3994a646"
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "borderless glass",
+      "name": "§eBorderless Glass",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "Clear glass",
+      "name": "§bClear Glass",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "Clear and borderless glass",
+      "name": "§7Clear and Borderless Glass",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "default",
+      "name": "§fDefault Glass",
+      "memory_tier": 0
+    }
+  ],
+  "metadata": {
+    "authors": ["Mod MCPE"],
+    "url": "https://www.curseforge.com/members/mod_mc"
+  }
+}
